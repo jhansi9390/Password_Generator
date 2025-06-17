@@ -35,4 +35,11 @@ This repository contains two versions of a **Password Generator**:
 ---
 
 ## 📂 Project Structure
+password-generator/
+├── gui_password_generator.py
+├── console_password_generator.py
+├── README.md
+
+
+
 
